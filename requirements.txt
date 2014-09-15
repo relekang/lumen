@@ -1,2 +1,2 @@
-pyserial==2
+pyserial
 web.py
